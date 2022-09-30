@@ -1,0 +1,964 @@
+{
+    "projects": [
+        {
+            "filterID": "Web React",
+            "gallerySize": "square",
+            "galleryPath": [
+                "img/portfolio/worldwild/3.png",
+                "img/portfolio/worldwild/2.png",
+                "img/portfolio/worldwild/1.png",
+                "img/portfolio/worldwild/4.png",
+                "img/portfolio/worldwild/5.png"
+            ],
+            "ProjectTitle": "Wilder World",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Wilder World, a Multilayered Immersive 5D Metaverse built on Ethereum, Unreal Engine, and Zero, leads the cyber renaissance. As a front-end developer, I built this website using React and Next.js.",
+                "OrderDate": "12.2019",
+                "FinalDate": "01.2020",
+                "Status": "Completed",
+                "Client": "Frank",
+                "Location": "USA"
+            },
+            "readMore": "https://www.wilderworld.com/"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/car/1.gif",
+                "img/portfolio/car/2.gif"
+            ],
+            "ProjectTitle": "Car Rancing",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "The theme of game is to compete with the other 5 opponents that are controlled by computer in a racing tournament, the player's goal is to get to the destination as soon as possible while trying to avoid bumping to other cars or road object, the final score will be posted according to the finishing position.",
+                "OrderDate": "02.2018",
+                "FinalDate": "04.2018",
+                "Status": "Completed",
+                "Client": "Brian    ",
+                "Location": "USA"
+            },
+            "readMore": "https://www.loom.com/share/7df632177bb742538fb87174e8803c4e?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/tank/1.gif"
+            ],
+            "ProjectTitle": "Tank",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Tank game is a two-player maze game in which the players, each controlling a tank, attempt to shoot each other. the shape of the maze is not symmetric, and is the same between games.This game is made for Mobile application.This goal of development is to implement multiplayer function in mobile.",
+                "OrderDate": "04.2017",
+                "FinalDate": "07.2017",
+                "Status": "Completed",
+                "Client": "Arey",
+                "Location": "Canada"
+            },
+            "readMore": "https://www.loom.com/share/f0431fc68a294ad485f6a56bb000db73?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/farming/1.gif"
+            ],
+            "ProjectTitle": "Farm",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "I used this game to make an NFT Game. I basically understood the logic of the farm game and tried to connect the server.",
+                "OrderDate": "08.2019",
+                "FinalDate": "12.2020",
+                "Status": "Pending",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.loom.com/share/11352ffc65844ca4ab47358105182127?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "vertical",
+            "galleryPath": [
+                "img/portfolio/modesy/10.jpg",
+                "img/portfolio/modesy/01.jpg",
+                "img/portfolio/modesy/03.jpg",
+                "img/portfolio/modesy/04.jpg",
+                "img/portfolio/modesy/05.jpg",
+                "img/portfolio/modesy/06.jpg",
+                "img/portfolio/modesy/07.jpg",
+                "img/portfolio/modesy/08.jpg",
+                "img/portfolio/modesy/09.jpg"
+            ],
+            "ProjectTitle": "Modesy",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Modesy is a marketplace and classified ads script that you can sell physical and digital products. It allows you to use marketplace and classified ads options at the same time. You can use this script as a multi-vendor store or you can use it as a store where you can sell your own products. It has clean, responsive and user-friendly design. You can manage almost everything in your site with its powerful Admin panel. It is secure, SEO-optimized, fast, fully customizable and easy to use. It's built by CI",
+                "OrderDate": "24.12.2019",
+                "FinalDate": "12.03.2020",
+                "Status": "Completed",
+                "Client": "Envato Market",
+                "Location": "Ukraine, Lviv"
+            },
+            "readMore": "https://modesy.codingest.com/"
+        },
+        {
+            "filterID": "Web",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/physical/1.png",
+                "img/portfolio/physical/2.png",
+                "img/portfolio/physical/3.png",
+                "img/portfolio/physical/4.png",
+                "img/portfolio/physical/5.png",
+                "img/portfolio/physical/6.png"
+            ],
+            "ProjectTitle": "Physical",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is for physiotherapy. As a front-end developer, I built 50 web pages using HTML + CSS + JavaScript. As a client request, I did't use bootstrap, etc.",
+                "OrderDate": "08.2021",
+                "FinalDate": "01.2022",
+                "Status": "Completed",
+                "Client": "Peter",
+                "Location": "Tailand"
+            },
+            "readMore": "https://notied.com"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/cardonecapital/0.png",
+                "img/portfolio/cardonecapital/1.png",
+                "img/portfolio/cardonecapital/2.png"
+            ],
+            "ProjectTitle": "Cardonecapital",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "http://cardonecapital.com/"
+        },
+        {
+            "filterID": "Web Vue",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/tipsterland/6.png",
+                "img/portfolio/tipsterland/1.png",
+                "img/portfolio/tipsterland/2.png",
+                "img/portfolio/tipsterland/3.png",
+                "img/portfolio/tipsterland/4.png",
+                "img/portfolio/tipsterland/5.png"
+            ],
+            "ProjectTitle": "tipsterland",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Tipsterland is a sports betting platform where Tipsters or forecasters place their predictions so that their followers can follow them and obtain a profit.",
+                "OrderDate": "12.2017",
+                "FinalDate": "03.2018",
+                "Status": "Completed",
+                "Client": "Eamon",
+                "Location": "Ireland"
+            },
+            "readMore": "https://tipsterland.es/"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/age/1.gif"
+            ],
+            "ProjectTitle": "Age of Kingdom",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This game is build a great kingdom ,conquer the world with your great knowledge, kill the enemy ,save your people with your kindness. This game is multiplayer game so It's used photon server and unity.",
+                "OrderDate": "12.2017",
+                "FinalDate": "12.2018",
+                "Status": "Completed",
+                "Client": "Akimoto",
+                "Location": "Japan"
+            },
+            "readMore": "https://www.loom.com/share/362e97cd926348f39d6fa7ff9e5699d4?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/zombie/1.gif"
+            ],
+            "ProjectTitle": "Zombie",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "06.2016",
+                "FinalDate": "12.2017",
+                "Status": "Completed",
+                "Client": "Uyeda Yori",
+                "Location": "Japan"
+            },
+            "readMore": "https://www.loom.com/share/a8e19f5b46824a71ba5091e3bb84558e?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/tulia/1.png",
+                "img/portfolio/tulia/2.png",
+                "img/portfolio/tulia/3.png",
+                "img/portfolio/tulia/4.png",
+                "img/portfolio/tulia/5.png"
+            ],
+            "ProjectTitle": "Tulia",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This website is a job site for black people.",
+                "OrderDate": "24.12.2019",
+                "FinalDate": "12.03.2020",
+                "Status": "Pending",
+                "Client": "Tonny",
+                "Location": "USA"
+            },
+            "readMore": "http://app.d31h0a6516c3zk.amplifyapp.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/earnx/1.png",
+                "img/portfolio/earnx/2.png",
+                "img/portfolio/earnx/3.png"
+            ],
+            "ProjectTitle": "EarnX",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "EarnX is a new platform on based BSC network. We have wide range of BNB, Origin, Doge, Solana, PAID, XRP, Cardano, Hotbit, Bitmart, Bitrue, etc.. versions of luxurious Persian Physical Carpet NFTs and sports goods. I built this website and swap function using web3.js.",
+                "OrderDate": "02.2021",
+                "FinalDate": "03.2021",
+                "Status": "Completed",
+                "Client": "Diedrich",
+                "Location": "Germany"
+            },
+            "readMore": "https://earnx.yearnclassic.finance/"
+        },
+        {
+            "filterID": "Web Vue Blockchain",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/metalegends/1.png",
+                "img/portfolio/metalegends/2.png",
+                "img/portfolio/metalegends/3.png",
+                "img/portfolio/metalegends/4.png"
+            ],
+            "ProjectTitle": "Meta Legends",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Meta Legends represent a collection of 12345 legends categorized by level of rarity and generated with hundreds of elements. The Legends are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS. This site is built using Hardhat, Vue.js, Web3.js",
+                "OrderDate": "01.2021",
+                "FinalDate": "05.2021",
+                "Status": "Completed",
+                "Client": "Erica",
+                "Location": "USA"
+            },
+            "readMore": "https://www.meta-legends.com/"
+        },
+        {
+            "filterID": "Blockchain",
+            "gallerySize": "square",
+            "galleryPath": [
+                "img/portfolio/ratdao/2.png",
+                "img/portfolio/ratdao/1.png",
+                "img/portfolio/ratdao/3.png"
+            ],
+            "ProjectTitle": "RatDAO",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is for the NFT marketplace. Deployed on OpenSea and built a smart contract. Using Remix, Truffle, Web3.js, Solidity, React.js",
+                "OrderDate": "11.2021",
+                "FinalDate": "01.2022",
+                "Status": "Completed",
+                "Client": "Phillip",
+                "Location": "USA"
+            },
+            "readMore": "https://ratdao.art/"
+        },
+        {
+            "filterID": "Blockchain",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/thekittybutts/1.png",
+                "img/portfolio/thekittybutts/2.png",
+                "img/portfolio/thekittybutts/3.png",
+                "img/portfolio/thekittybutts/4.png"
+            ],
+            "ProjectTitle": "the kittybutts",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is for the NFT marketplace. Deployed on OpenSea and built a smart contract. Using Remix, Truffle, Web3.js, Solidity, React.js",
+                "OrderDate": "05.2021",
+                "FinalDate": "07.2021",
+                "Status": "Completed",
+                "Client": "Kacey Tanner",
+                "Location": "USA"
+            },
+            "readMore": "https://breed.thekittybutts.com/"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/kodeclubs/1.png",
+                "img/portfolio/kodeclubs/2.png",
+                "img/portfolio/kodeclubs/3.png",
+                "img/portfolio/kodeclubs/4.png",
+                "img/portfolio/kodeclubs/5.png"
+            ],
+            "ProjectTitle": "kodeclubs",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This is NFT Game. Connecting wallet, Deploying contract, Using Unity-Web3",
+                "OrderDate": "06.2020",
+                "FinalDate": "12.2020",
+                "Status": "Completed",
+                "Client": "Brilian",
+                "Location": "USA"
+            },
+            "readMore": "https://www.kodeclubs.com/"
+        },
+        {
+            "filterID": "Web",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/coddyschool/1.png",
+                "img/portfolio/coddyschool/2.png",
+                "img/portfolio/coddyschool/3.png",
+                "img/portfolio/coddyschool/4.png"
+            ],
+            "ProjectTitle": "coddyschool",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "CODDY is an international programming school for children from 4 to 18 years old, founded in 2016. As a frontend developer, I built this site using HTML, CSS, JQuery, JavaScript.",
+                "OrderDate": "06.2016",
+                "FinalDate": "09.2016",
+                "Status": "Completed",
+                "Client": "Aleks Egorov",
+                "Location": "Russia"
+            },
+            "readMore": "https://coddyschool.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/illuvium/0.png",
+                "img/portfolio/illuvium/1.png",
+                "img/portfolio/illuvium/2.png"
+            ],
+            "ProjectTitle": "Illuvium",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.illuvium.io/"
+        },
+        {
+            "filterID": "Web",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/hellonesh/1.png",
+                "img/portfolio/hellonesh/2.png",
+                "img/portfolio/hellonesh/3.png",
+                "img/portfolio/hellonesh/4.png",
+                "img/portfolio/hellonesh/5.png"
+            ],
+            "ProjectTitle": "hellonesh",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "06.2019",
+                "FinalDate": "03.2020",
+                "Status": "Completed",
+                "Client": "James Covington",
+                "Location": "USA"
+            },
+            "readMore": "https://hellonesh.io/"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/1x2/1.png",
+                "img/portfolio/1x2/2.png",
+                "img/portfolio/1x2/3.png",
+                "img/portfolio/1x2/4.png"
+            ],
+            "ProjectTitle": "1x2",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "1X2 betting is simply betting on the outcome of a fixture and is often referred to as match result betting. This means you simply have to predict whether the game finishes as a home win, away win or draw. This site is built using Laravel.",
+                "OrderDate": "06.12.2019",
+                "FinalDate": "12.03.2020",
+                "Status": "Completed",
+                "Client": "Edward Mainse",
+                "Location": "Canada"
+            },
+            "readMore": "http://1x2-bets.com/"
+        },
+        {
+            "filterID": "Web",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/fabuwood/1.png",
+                "img/portfolio/fabuwood/2.png",
+                "img/portfolio/fabuwood/3.png"
+            ],
+            "ProjectTitle": "Fabuwood",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Fabuwood provides your kitchen cabinets should help develop a sanctuary that offers a perfect balance of functionality and ambiance with a range of styles. their unique collections transform modern and traditional homes, large and small, inside and out, adorning kitchen walls throughout the nation.",
+                "OrderDate": "06.12.2019",
+                "FinalDate": "12.03.2020",
+                "Status": "Completed",
+                "Client": "Alton Harris",
+                "Location": "USA"
+            },
+            "readMore": "https://www.fabuwood.com/"
+        },
+        {
+            "filterID": "Web Angular",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/yescapa/1.png",
+                "img/portfolio/yescapa/2.png",
+                "img/portfolio/yescapa/3.png"
+            ],
+            "ProjectTitle": "Yescapa",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is an advertising site for renting an RV. It's built using Angular framework.",
+                "OrderDate": "06.2019",
+                "FinalDate": "07.2019",
+                "Status": "Completed",
+                "Client": "Salena Keller",
+                "Location": "USA"
+            },
+            "readMore": "https://www.yescapa.com/"
+        },
+        {
+            "filterID": "Web Python Vue",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/smiledirectclub/4.png",
+                "img/portfolio/smiledirectclub/2.png",
+                "img/portfolio/smiledirectclub/3.png",
+                "img/portfolio/smiledirectclub/1.jpg"
+            ],
+            "ProjectTitle": "Smiledirectclub",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site helps people to have a beautiful haircut structure. This site is built using Vue.js, Nuxt.js, and Django",
+                "OrderDate": "08.2018",
+                "FinalDate": "09.2018",
+                "Status": "Completed",
+                "Client": "Taylor Fennimore",
+                "Location": "USA"
+            },
+            "readMore": "https://smiledirectclub.com"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/buttleFPS/1.gif",
+                "img/portfolio/buttleFPS/1.png",
+                "img/portfolio/buttleFPS/2.png",
+                "img/portfolio/buttleFPS/3.png"
+            ],
+            "ProjectTitle": "buttle FPS",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "It is a game in which a young brave girl appears and destroys water droplets and monsters.",
+                "OrderDate": "03.2017",
+                "FinalDate": "08.2017",
+                "Status": "Completed",
+                "Client": "Adachi Mikio",
+                "Location": "Japan"
+            },
+            "readMore": "https://www.loom.com/share/765a3d18528c4cd1a1d28a96dacefa88"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/chinakingdom/1.gif",
+                "img/portfolio/chinakingdom/1.png",
+                "img/portfolio/chinakingdom/2.png",
+                "img/portfolio/chinakingdom/3.png",
+                "img/portfolio/chinakingdom/4.png",
+                "img/portfolio/chinakingdom/5.png",
+                "img/portfolio/chinakingdom/6.png",
+                "img/portfolio/chinakingdom/7.png"
+            ],
+            "ProjectTitle": "china kingdom",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "China: The China Kingdom covers the full scope of Chinese history, from its beginnings as a collection of warring feudal states. The project shows the building from 403 BC when China began to rise from the feudal era.",
+                "OrderDate": "01.2018",
+                "FinalDate": "03.2018",
+                "Status": "Completed",
+                "Client": "Liang Yan",
+                "Location": "China"
+            },
+            "readMore": "https://www.loom.com/share/0086550da5da41c0958d0ab0f9c6b068"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/doma/2.gif"
+            ],
+            "ProjectTitle": "Doma",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This game is a large project and multiplayer game. Doma is a multiplayer online battle arena (MOBA) video game in which two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the 'Ancient', whilst defending their own. The objective of the game is to destroy all the enemy towers and ultimately their throne. Each base has two structures for each lane that spawns. This game is used the Photon server.",
+                "OrderDate": "06.2016",
+                "FinalDate": "12.2018",
+                "Status": "Completed",
+                "Client": "Tonny Wang",
+                "Location": "USA"
+            },
+            "readMore": "https://www.loom.com/share/c7d275b005b14b499f4b513354e7bd7e"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/puzzle/2.gif"
+            ],
+            "ProjectTitle": "Puzzle",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "A puzzle is a game, problem, or toy that tests a person's ingenuity or knowledge. In a puzzle, the solver is expected to put pieces together in a logical way, in order to arrive at the correct or fun solution of the puzzle.",
+                "OrderDate": "12.2018",
+                "FinalDate": "03.2029",
+                "Status": "Completed",
+                "Client": "Lalit Sha",
+                "Location": "India"
+            },
+            "readMore": "https://www.loom.com/share/38a765db8a434821820ba1c950492e5f"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/konghero/2.gif"
+            ],
+            "ProjectTitle": "konghero",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Kong Hero is the Mario game style with very fun gameplay.4 Worlds – 36 levels total, 4 Big Bosses fight at the final level. Shop system, using coins to unlock new 4 characters and buy items. It's run in unity version 2019",
+                "OrderDate": "04.2019",
+                "FinalDate": "08.2019",
+                "Status": "Completed",
+                "Client": "Nhut",
+                "Location": "Vietnam"
+            },
+            "readMore": "https://www.loom.com/share/dac020bb3eea4cda98d1522dc5758ec3"
+        },
+        {
+            "filterID": "Web Blockchain React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/fastswap/2.png",
+                "img/portfolio/fastswap/1.png",
+                "img/portfolio/fastswap/3.png",
+                "img/portfolio/fastswap/4.png",
+                "img/portfolio/fastswap/5.png"
+            ],
+            "ProjectTitle": "fastswap",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is a E2E site using fast token. This website provide you to swap, liquidity, E2E between BNB, Ethereuem, Fast, and Duke token.This site is built React and web3.js.",
+                "OrderDate": "08.2021",
+                "FinalDate": "02.2022",
+                "Status": "Progressing",
+                "Client": "Victor Colon",
+                "Location": "USA"
+            },
+            "readMore": "https://fastswap.finance/"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/boostancafe/1.png",
+                "img/portfolio/boostancafe/2.png",
+                "img/portfolio/boostancafe/3.png"
+            ],
+            "ProjectTitle": "boostancafe",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This website is Boostan Cafe's website for service middle eastern food, Mediterranean cuisine, quality catering, and a fresh sandwich. you have a party or reunion or business meeting coming up and you can find Boostan Cafe. This website is built WordPress.",
+                "OrderDate": "06.12.2019",
+                "FinalDate": "12.03.2020",
+                "Status": "Completed",
+                "Client": "Patrik Taylor",
+                "Location": "United Kindom"
+            },
+            "readMore": "https://boostancafe.com/"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/classicsnl/1.jpg",
+                "img/portfolio/classicsnl/2.png",
+                "img/portfolio/classicsnl/3.png",
+                "img/portfolio/classicsnl/4.jpg"
+            ],
+            "ProjectTitle": "Classics",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is an advertisement for the sale of old cars. This site is built using Laravel.",
+                "OrderDate": "12.2016",
+                "FinalDate": "03.2017",
+                "Status": "Completed",
+                "Client": "Alexandar",
+                "Location": "Russia"
+            },
+            "readMore": "https://classics.nl/"
+        },
+        {
+            "filterID": "Web Php",
+            "gallerySize": "vertical",
+            "galleryPath": [
+                "img/portfolio/vipturnup/1.jpg",
+                "img/portfolio/vipturnup/2.jpg",
+                "img/portfolio/vipturnup/3.jpg",
+                "img/portfolio/vipturnup/4.jpg",
+                "img/portfolio/vipturnup/5.jpg",
+                "img/portfolio/vipturnup/6.png"
+            ],
+            "ProjectTitle": "VIP ON US",
+            "projectDescription": "Night Club",
+            "ProjectDetail": {
+                "Description": "This site is for black people who live in America. This site is built using WordPress, React.js, Laravel, and MySQL.",
+                "OrderDate": "08.2021",
+                "FinalDate": "02.2022",
+                "Status": "Completed",
+                "Client": "James Covington",
+                "Location": "USA"
+            },
+            "readMore": "https://vipturnup.com/"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/space/1.gif"
+            ],
+            "ProjectTitle": "Space Battle",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Space Battle is a 2D space action game for one player. This game logic is to have to survive the dangers of the environment, collect minerals, defeat the stalkers and defend yourself from the implacable galactic government. Shields, weapons, missiles and other tools will make plater the best pilot in your sector.  This game is made by unity.",
+                "OrderDate": "03.2018",
+                "FinalDate": "05.2018",
+                "Status": "Completed",
+                "Client": "Vladyslav",
+                "Location": "Ukraine"
+            },
+            "readMore": "https://www.loom.com/share/4615d5475dd24bb99ecd363b090231e7?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/card/1.gif"
+            ],
+            "ProjectTitle": "Card",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "A card game is any game using playing cards as the primary device with which the game is played, by the traditional or game-specific. his game is a simple game and my role of this game is to implement AI.",
+                "OrderDate": "10.2018",
+                "FinalDate": "12.2018",
+                "Status": "Completed",
+                "Client": "James Covington",
+                "Location": "USA"
+            },
+            "readMore": "https://www.loom.com/share/1e5051d774344560a85755bd4b4f12f8?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/fighting/1.gif"
+            ],
+            "ProjectTitle": "Fighting",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "Added a variety of characters with a range of different fighting styles. Dynamically load characters and levels into a scene. Add a Main menu and a character select screen. Create both 1 player and 2 player modes. This game is made by unity and offline game.",
+                "OrderDate": "06.2021",
+                "FinalDate": "09.2021",
+                "Status": "Completed",
+                "Client": "Patrick",
+                "Location": "United Kindom"
+            },
+            "readMore": "https://www.loom.com/share/4f7af8f566a24865a638dd28dd30acde?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Unity",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/mouse/1.gif"
+            ],
+            "ProjectTitle": "Smath Brothers",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "A game is a structured form of play, usually undertaken for entertainment or fun, and sometimes used as an educational tool. This game is made for NFT Game. Key components of games are goals, fighting, challenges, and interaction.",
+                "OrderDate": "06.2021",
+                "FinalDate": "01.2022",
+                "Status": "Completed",
+                "Client": "USA",
+                "Location": "Brian"
+            },
+            "readMore": "https://www.loom.com/share/655f4f0f365a4e70854154c2bde8db6c?sharedAppSource=personal_library"
+        },
+        {
+            "filterID": "Web Blockchain",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/samuswap/1.png",
+                "img/portfolio/samuswap/2.png",
+                "img/portfolio/samuswap/3.png",
+                "img/portfolio/samuswap/4.png"
+            ],
+            "ProjectTitle": "Samuswap",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "This site is a E2E site. This website provide you to swap, liquidity, E2E between BNB, Ethereuem, and etc.This site is built React and web3.js",
+                "OrderDate": "11.2022",
+                "FinalDate": "02.2022",
+                "Status": "Progressing",
+                "Client": "USA",
+                "Location": "James"
+            },
+            "readMore": "https://samuswap.finance/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/collectvox/1.png",
+                "img/portfolio/collectvox/2.png",
+                "img/portfolio/collectvox/3.png"
+            ],
+            "ProjectTitle": "Collectvox",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.collectvox.com/"
+        },
+        {
+            "filterID": "Web React Blockchain",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/cryptodragons/0.png",
+                "img/portfolio/cryptodragons/1.png",
+                "img/portfolio/cryptodragons/2.png"
+            ],
+            "ProjectTitle": "Cryptodragons",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.cryptodragons.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/drippingdinos/0.png",
+                "img/portfolio/drippingdinos/1.png",
+                "img/portfolio/drippingdinos/2.png",
+                "img/portfolio/drippingdinos/3.png"
+            ],
+            "ProjectTitle": "Drippingdinos",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.drippingdinos.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/farmersworld/0.png",
+                "img/portfolio/farmersworld/1.png",
+                "img/portfolio/farmersworld/2.png"
+            ],
+            "ProjectTitle": "Farmers World",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.farmersworld.com/"
+        },
+        {
+            "filterID": "Web",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/lazybunnynft/0.png",
+                "img/portfolio/lazybunnynft/1.png",
+                "img/portfolio/lazybunnynft/2.png"
+            ],
+            "ProjectTitle": "Lazybunnynft",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.lazybunnynft.io/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/mylottocoin/0.png",
+                "img/portfolio/mylottocoin/1.png",
+                "img/portfolio/mylottocoin/2.png",
+                "img/portfolio/mylottocoin/3.png"
+            ],
+            "ProjectTitle": "My Lottocoin",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.mylottocoin.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/peeba/1.png",
+                "img/portfolio/peeba/2.png",
+                "img/portfolio/peeba/3.png",
+                "img/portfolio/peeba/4.png"
+            ],
+            "ProjectTitle": "Peeba",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.peeba.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/qanvast/1.png",
+                "img/portfolio/qanvast/2.png",
+                "img/portfolio/qanvast/3.png",
+                "img/portfolio/qanvast/4.png"
+            ],
+            "ProjectTitle": "Qanvast",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.qanvast.com/"
+        },
+        {
+            "filterID": "Web React",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/tokyomate/1.png",
+                "img/portfolio/tokyomate/2.png",
+                "img/portfolio/tokyomate/3.png",
+                "img/portfolio/tokyomate/4.png"
+            ],
+            "ProjectTitle": "Tokyomate",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.tokyomate.jp/"
+        },
+        {
+            "filterID": "Web React Blockchain",
+            "gallerySize": "horizontal",
+            "galleryPath": [
+                "img/portfolio/wannapanda/1.png",
+                "img/portfolio/wannapanda/2.png",
+                "img/portfolio/wannapanda/3.png"
+            ],
+            "ProjectTitle": "Wannapanda",
+            "projectDescription": "",
+            "ProjectDetail": {
+                "Description": "",
+                "OrderDate": "",
+                "FinalDate": "",
+                "Status": "",
+                "Client": "",
+                "Location": ""
+            },
+            "readMore": "https://www.wannapanda.com/"
+        }
+    ]
+}
